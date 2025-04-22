@@ -38,7 +38,7 @@ export default function Home() {
   const managementTeam = [
     {
       image:
-        "https://raw.githubusercontent.com/lucascerqueira1/ceccs/main/public/elaine.jpg",
+        "https://github.com/lucasriosdev/ceccs/blob/main/src/img/01.jpg?raw=true",
       name: "Elaine Hermida",
       role: "Diretora",
       education: [
@@ -49,7 +49,7 @@ export default function Home() {
     },
     {
       image:
-        "https://raw.githubusercontent.com/lucascerqueira1/ceccs/main/public/lucas.jpg",
+        "https://github.com/lucasriosdev/ceccs/blob/main/src/img/02.jpg?raw=true",
       name: "Lucas Cerqueira",
       role: "Vice-Diretor",
       education: [
@@ -60,7 +60,7 @@ export default function Home() {
     },
     {
       image:
-        "https://raw.githubusercontent.com/lucascerqueira1/ceccs/main/public/marcelo.jpg",
+        "https://github.com/lucasriosdev/ceccs/blob/main/src/img/03.jpg?raw=true",
       name: "Marcelo Moura",
       role: "Vice-Diretor",
       education: [
